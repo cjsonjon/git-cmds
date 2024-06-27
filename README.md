@@ -18,6 +18,6 @@ git add .
 git remote set-url origin https://github.com/user/repo
 git push -u origin master
 
-#Download update:
+#Download update: 
 
 git pull origin
