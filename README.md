@@ -1,4 +1,4 @@
-# git-cmds
+# Git Commands
 
 #Get file:
 git clone
