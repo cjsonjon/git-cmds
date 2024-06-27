@@ -18,7 +18,7 @@ git add .
 
 #git status
 
-#git commit -m 'your message'
+git commit -m 'your message'
 
 git remote set-url origin https://github.com/user/repo
 
