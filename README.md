@@ -12,11 +12,17 @@ git config --global core.compression 0
 
 cd 
 git init
+
 git add . 
+
 #git status
+
 #git commit -m 'your message'
+
 git remote set-url origin https://github.com/user/repo
+
 git push -u origin master
+
 
 #Download update: 
 
