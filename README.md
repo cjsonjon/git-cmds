@@ -39,5 +39,7 @@ git reset --hard origin/master
 
 
 #Check new files
+
 git fetch --all
+
 git checkout origin/main
