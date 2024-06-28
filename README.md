@@ -28,3 +28,10 @@ git push -u origin master
 #Download update: 
 
 git pull origin
+
+
+#Get old files
+
+git fetch --all
+
+git reset --hard origin/master
